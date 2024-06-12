@@ -16,10 +16,6 @@ pip install supspec
 
 Before using `SupSpec`, store all your data in a folder called "data". Then, open terminal at the location and run `supspec`. 
 
-```
-supspec 
-```
-
 You can also pass in 3 arguments at the terminal: mode, directory, and extension.
 - **Mode**: `-v` at the end of the command activates verbose mode. The default is quiet mode.
 - **Directory**: `-d <directory>` at the end of the command sets that directory as the directory which holds spectroscopy data. The default directory is a folder called "data" inside the current directory.
